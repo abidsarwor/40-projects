@@ -1,0 +1,18 @@
+body {
+    background:  rgb(179, 95, 173);
+    text-align: center;
+    background-color: rgb(21, 97, 250);
+    color: rgb(63, 202, 58);
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+canvas {
+    background-color: rgb(109, 18, 109);
+    display: block;
+    margin: 20px auto;
+    border: 2px solid rgb(10, 143, 177);
+}
